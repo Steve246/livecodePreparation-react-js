@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.Form-Style {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.email-style {
+  /* margin: 0 auto; */
+
+  padding: 10px;
+}
+
+.password-style {
+  /* margin: 0 auto; */
+
+  padding: 10px;
+}
+
+.button-style {
+  margin: 10px;
+}
